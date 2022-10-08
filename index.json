@@ -385,4 +385,16 @@
     "bolingPoint_inDegreeCelsius": "280.5C"
   }
 
+
+
+
+{
+    "id": 459,
+    "name": "Osmium",
+    "molecular formula": "Os",
+    "colour": "grey-white",
+    "meltingPoint_inDegreeCelsius": "3,033 °C",
+    "bolingPoint_inDegreeCelsius": "5,027 °C "
+  }
+
 ]
